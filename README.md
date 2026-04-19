@@ -26,9 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Imdadx007&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Imdadx007&theme=radical)
