@@ -12,8 +12,8 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](your-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/imd_x08?igsh=d3FscGg3aTRtZDIy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-link](https://www.linkedin.com/in/imdadullah-5aa2a2318?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
