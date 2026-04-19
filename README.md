@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Imdadullah</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
-<!--
-**Imdadx007/Imdadx007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Working on EVOLVIFY
+- 🌱 Learning AI Integration
+- 💬 Ask me about Python, Web Dev
+- ⚡ Fun fact: I build + break things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
